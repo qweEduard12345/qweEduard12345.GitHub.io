@@ -1,0 +1,51 @@
+/* =========================================  @import url(reset.css); */
+
+body{
+    font-family: "Comic Sans MS", monospace;
+}
+
+
+h1, .h1 {    
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    color: darkcyan ;
+    font-size: 120%; 
+    font-family: 'Dancing Script', cursive;
+}
+
+ul li{
+    color:goldenrod;
+    font-family: "Courier New Bold", monospace;
+}
+
+
+ol li{
+    color:darkgreen;
+    font-size: 120%; 
+    font-family: 'Courier New', cursive;
+}
+
+hr{
+    border:
+}
+
+.active {
+    color:orange;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: chocolate;
+    text-decoration: overline;
+}
+
+p:hover{
+    background: skyblue ;
+    color: white;
+}
